@@ -111,6 +111,7 @@ nav ul li a:visited {
   .about-container{
     flex-direction: row;
     max-width: 45%;
+    margin: 25px 0px;
   }
   
 }
@@ -118,6 +119,7 @@ nav ul li a:visited {
 @media screen and (min-width: 1024px) {
   .about-container{
     flex-direction: column-reverse;
+    margin: 25px 0px;
   }
   
 }
